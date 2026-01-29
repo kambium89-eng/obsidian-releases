@@ -19038,5 +19038,13 @@
     "author": "Marty Ballard",
     "description": "Status bar clock.",
     "repo": "marty331/status-bar-clock-obsidian"
-  }
+  },
+    {
+        "id": "link-tab-controller",
+        "name": "Link Tab Controller",
+        "author": "kambium89-eng",
+        "description": "Smart link opening that reuses existing split panes to prevent tab clutter.",
+        "repo": "kambium89-eng/link-tab-controller"
+    }
 ]
+
